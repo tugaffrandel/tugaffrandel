@@ -1,13 +1,14 @@
-Hi there 👋
+###Hi there 👋
 My name is Randel Tugaff (Flutter Developer), I'm a passionate self-learning developer who loves solving problems and mastering new technologies. Most Importantly, I enjoy bringing my knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.
 
-🌍  I'm based in Bacolod, Philippines
-✉️  You can contact me at tugaffrandel@gmail.com
-🧠  I'm currently learning cross-platform software integration with Flutter
-🤝  I'm open to collaborating on Mobile Development and IT in General
+* 🌍  I'm based in Bacolod, Philippines
+* ✉️  You can contact me at tugaffrandel@gmail.com
+* 🧠  I'm currently learning cross-platform software integration with Flutter
+* 🤝  I'm open to collaborating on Mobile Development and IT in General
 
-Technologies i use
+###Technologies i use
 
-Flutter Dart Firebase 
+<p align="left">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a></p>
 
 
