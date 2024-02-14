@@ -5,7 +5,9 @@ My name is Randel Tugaff (Flutter Developer), I'm a passionate self-learning dev
 ✉️  You can contact me at tugaffrandel@gmail.com
 🧠  I'm currently learning cross-platform software integration with Flutter
 🤝  I'm open to collaborating on Mobile Development and IT in General
+
 Technologies i use
+
 Flutter Dart Firebase 
 
 
